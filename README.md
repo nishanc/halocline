@@ -1,9 +1,17 @@
-![Cover](/images/cover.png)
+<p align="center"> 
+    <img src="https://raw.githubusercontent.com/nishanc/halocline/master/images/cover.png" alt="Cover">
+</p>
+
 <div align="center">
 "That colour theme you dreamt about."
 </div>
 
-[![Midnight Blue](/images/button_yellow.png)](https://www.buymeacoffee.com/nishanc)
+
+<p align="center"> 
+    <a href="https://www.buymeacoffee.com/nishanc">
+        <img src="https://raw.githubusercontent.com/nishanc/halocline/master/images/button_yellow.png" alt="Donate" style="width:100px;height: auto;">
+    </a>
+</p>
 
 **Midnight Blue**
 
