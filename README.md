@@ -9,7 +9,7 @@
 
 <p align="center"> 
     <a href="https://www.buymeacoffee.com/nishanc">
-        <img src="https://raw.githubusercontent.com/nishanc/halocline/master/images/button_yellow.png" alt="Donate" style="width:50px;height: auto;">
+        <img src="https://raw.githubusercontent.com/nishanc/halocline/master/images/button_yellow.png" alt="Donate" width="100">
     </a>
 </p>
 
