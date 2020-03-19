@@ -9,21 +9,43 @@
 
 <p align="center"> 
     <a href="https://www.buymeacoffee.com/nishanc">
-        <img src="https://raw.githubusercontent.com/nishanc/halocline/master/images/button_yellow.png" alt="Donate" width="100">
+        <img src="https://raw.githubusercontent.com/nishanc/halocline/master/images/button_yellow.png" alt="Donate" width="130">
     </a>
 </p>
 
-**Midnight Blue**
+---
+
+<div align="center"> 
+
+<b>Midnight Blue</b>
+
+</div>
 
 ![Midnight Blue](/images/midnight_blue.png)
 
-**Raisin**
+
+---
+
+<div align="center"> 
+
+<b>Raisin</b>
+
+</div>
 
 ![Raisin](/images/raisin.png)
 
-**Pitch Black**
+
+---
+
+<div align="center"> 
+
+<b>Pitch Black</b>
+
+</div>
 
 ![Pitch Black](/images/pitch_black.png)
+
+---
 
 ## Release Notes
 ### 1.0.0
