@@ -1,0 +1,38 @@
+{
+    "name": "halocline",
+    "displayName": "Halocline",
+    "description": "That colour theme you dreamt about.",
+    "author": "Nishan Chathuranga",
+    "version": "1.0.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/nishanc/halocline"
+    },
+    "icon": "images/logo.png",
+	"publisher": "nishanc",
+    "engines": {
+        "vscode": "^1.43.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Halocline: Midnight Blue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Halocline-Midnight-Blue.json"
+            },
+            {
+                "label": "Halocline: Raisin",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Halocline-Raisin.json"
+            },
+            {
+                "label": "Halocline: Pich Black",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Halocline-Pitch-Black.json"
+            }
+        ]
+    }
+}
