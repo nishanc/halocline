@@ -9,7 +9,7 @@
         "url": "https://github.com/nishanc/halocline"
     },
     "icon": "images/logo.png",
-	"publisher": "nishanc",
+    "publisher": "nishanc",
     "engines": {
         "vscode": "^1.43.0"
     },
@@ -17,8 +17,8 @@
         "Themes"
     ],
     "scripts": {
-		"deploy": "vsce publish --yarn"
-	},
+        "deploy": "vsce publish --yarn"
+    },
     "contributes": {
         "themes": [
             {
@@ -37,5 +37,9 @@
                 "path": "./themes/Halocline-Pitch-Black.json"
             }
         ]
+    },
+    "devDependencies": {
+        "vsce": "^1.81.0",
+        "yarn": "^1.22.10"
     }
 }
